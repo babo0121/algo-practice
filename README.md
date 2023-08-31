@@ -4,24 +4,52 @@
 코딩테스트를 위한 JAVA 알고리즘 스터디입니다.<br><br>
 
 ### Members
-
-<div>
-  <a href="https://github.com/syy0O">
-    <img src="https://avatars.githubusercontent.com/u/86238720?v=4" width="100" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/HyunaJo">
-    <img src="https://avatars.githubusercontent.com/u/69022662?v=4" width="100" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/babo0121">
-    <img src="https://avatars.githubusercontent.com/u/77273340?v=4" width="100" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/kyum-q">
-    <img src="https://avatars.githubusercontent.com/u/109158497?v=4" width="100" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/ujkkk">
-    <img src="https://avatars.githubusercontent.com/u/88374384?v=4" width="100" style="max-width: 100%;">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/syy0O">
+        <img src="https://avatars.githubusercontent.com/u/86238720?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HyunaJo">
+        <img src="https://avatars.githubusercontent.com/u/69022662?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/babo0121">
+        <img src="https://avatars.githubusercontent.com/u/77273340?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kyum-q">
+        <img src="https://avatars.githubusercontent.com/u/109158497?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ujkkk">
+        <img src="https://avatars.githubusercontent.com/u/88374384?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/syy0O">유송연</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HyunaJo">조현아</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/babo0121">조유진</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kyum-q">김경미</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ujkkk">김유진</a>
+    </td>
+  </tr>
+</table>
 <br>
 
 ### Rules
