@@ -33,6 +33,11 @@
         <img src="https://avatars.githubusercontent.com/u/88374384?v=4" width="100" style="max-width: 100%;">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/ujkkk">
+        <img src="https://avatars.githubusercontent.com/u/89981466?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -50,6 +55,9 @@
     <td align="center">
       <a href="https://github.com/ujkkk">김유진</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/daneng4">김은서</a>
+    </td>
   </tr>
 </table>
 <br>
@@ -58,9 +66,9 @@
 
 - 문제 선정 : 매주 `금요일`
 - 라이브 코딩 : 매주 `월요일, 목요일 23:00 ~ 24:00` (필참X)
-- 문제 리뷰 : 매주 `화요일, 금요일 22:00`까지 업로드
-  - 리뷰 내용) `문제 접근 방식` + `코드 파일`
-  - 다른 사람의 리뷰에 대해 `comment` / `approved`
+- 코드 공유 : 매주 `화요일, 금요일 22:00`까지 업로드
+  - 내용) `문제 접근 방식` + `코드 파일`
+- 코드 리뷰 : 다른 사람 코드에 대해 `comment` / `approved`
 <br><br>
 
 ### Convention Rule
