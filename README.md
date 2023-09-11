@@ -1,7 +1,9 @@
 # algo-practice
 > 알고리즘 알고 풀자
 
-코딩테스트를 위한 JAVA 알고리즘 스터디입니다.<br><br>
+코딩테스트를 위한 JAVA 알고리즘 스터디입니다.
+
+<a href="https://github.com/tony9402/baekjoon">코딩테스트 대비 문제집 with Baekjoon</a>을 기반으로 문제 선정합니다.<br><br>
 
 ### Members
 <table>
