@@ -36,7 +36,7 @@ public class no15724 {
         int x1, y1, x2, y2;
         // 진경대왕이 인구 수를 궁금해하는 직사각형 범위의 개수 입력받기
         int K = Integer.parseInt(br.readLine());
-        for(int i = 0; i < K; i++) {
+        for(int i = 0; i < K; i++) {    // K만큼 좌표 입력받기
             st = new StringTokenizer(br.readLine());
             x1 = Integer.parseInt(st.nextToken());
             y1 = Integer.parseInt(st.nextToken());
